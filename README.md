@@ -1,10 +1,10 @@
 # Problem Solving using Data Structures
-Given the sessions with Dr. Chao, this repo was created with aim of complementing then. It is meant to give KamiLimu mentees (cohort 8 and future cohorts) a place to practice building data structures from scratch. It also serves as practice for contribution using Git and GitHub. You can also use this to read up on various ADTs before a technical interview or even an exam (if you're doing data structures and algorithms). 
+Given the sessions with Dr. Chao, this repo was created with the aim of complementing them. It is meant to give KamiLimu mentees (cohort 8 and future cohorts) a place to practice building data structures from scratch. It also serves as practice for contribution using Git and GitHub. You can also use this to read up on various ADTs before a technical interview or even an exam (if you're doing data structures and algorithms). 
 
 This current repo is specifically for cohort  8. All implementations here are a showcase of the intellecutal capabilities of our fellow mentees. Have fun and learn!
 
 ## What even are ADTS?
-Data structures are abstract ways storing, arranging and manipulating data. There are linear and non-linear data structures. 
+Data structures are abstract ways of storing, arranging and manipulating data. There are linear and non-linear data structures. 
 
 ## Linear ADTs
 These include:
@@ -25,7 +25,7 @@ These include:
 ## How to use this repo?
 "The natural order is disorder" ~Zaheer. 
 
-Unfortunately, Zaheer was not correct. We at KamiLimu love order, and this repo enbodies that.
+Unfortunately, Zaheer was not correct. We at KamiLimu love order, and this repo embodies that.
 For all sessions we have with Dr. Chao, we learn new ADTs. For each ADT learned, a new branch is created. In each branch, various folders exist for each language an ADT is implemented in.
 
 As a mentee, if you wish to implement a certain ADT:
