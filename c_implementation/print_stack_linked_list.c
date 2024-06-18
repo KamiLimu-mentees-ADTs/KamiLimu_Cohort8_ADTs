@@ -1,4 +1,4 @@
-#include "stack.h"
+#include "stack_linked_list.h"
 
 /**
  * print_stack - prints the elements of the stack, onto standard output

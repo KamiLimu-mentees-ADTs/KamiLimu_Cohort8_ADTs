@@ -1,4 +1,4 @@
-#include "stack.h"
+#include "stack_linked_list.h"
 
 /**
  * isEmpty - checks if the stack is empty
